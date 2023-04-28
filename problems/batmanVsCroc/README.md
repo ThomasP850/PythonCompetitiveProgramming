@@ -17,7 +17,7 @@ amount of time possible.Your job is to find that minimal time.
 <br>
 <br>
 <br>
-![Image of a weighted bidirectional graph with bombs placed on some of the nodes](../images/Screenshot%202023-04-28%20155157.png)
+![Image of a weighted bidirectional graph with bombs placed on some of the nodes](../../images/Screenshot%202023-04-28%20155157.png)
 <br>
 <br>
 <br>
