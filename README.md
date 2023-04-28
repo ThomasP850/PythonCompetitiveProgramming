@@ -1,4 +1,4 @@
-# Python Competitive Programming Problem Samples
+# Python Competitive Programming Solution Samples
 This is a collection of some of my solutions to problems from the Baldwin Wallce University High School Programming Competition.
 
 These problems were solved in **Python** and involve topics including:
